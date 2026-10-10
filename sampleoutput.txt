@@ -1,0 +1,170 @@
+===== CONTACT BOOK =====
+1. Add Contact
+2. Search Contact
+3. Update Contact
+4. Delete Contact
+5. Display Contacts
+6. Exit
+Enter your choice: 1
+Enter phone number: 9876543210
+Enter contact name: Madeena Beebi
+Contact added successfully!
+
+===== CONTACT BOOK =====
+1. Add Contact
+2. Search Contact
+3. Update Contact
+4. Delete Contact
+5. Display Contacts
+6. Exit
+Enter your choice: 1
+Enter phone number: 8765432109
+Enter contact name: Sravani
+Contact added successfully!
+
+===== CONTACT BOOK =====
+1. Add Contact
+2. Search Contact
+3. Update Contact
+4. Delete Contact
+5. Display Contacts
+6. Exit
+Enter your choice: 1
+Enter phone number: 6543210987
+Enter contact name: Manjula
+Contact added successfully!
+
+===== CONTACT BOOK =====
+1. Add Contact
+2. Search Contact
+3. Update Contact
+4. Delete Contact
+5. Display Contacts
+6. Exit
+Enter your choice: 1
+Enter phone number: 7654321098
+Enter contact name: Swathi
+Contact added successfully!
+
+===== CONTACT BOOK =====
+1. Add Contact
+2. Search Contact
+3. Update Contact
+4. Delete Contact
+5. Display Contacts
+6. Exit
+Enter your choice: 2
+Enter phone number to search: 9876543210
+Name: Madeena Beebi
+
+===== CONTACT BOOK =====
+1. Add Contact
+2. Search Contact
+3. Update Contact
+4. Delete Contact
+5. Display Contacts
+6. Exit
+Enter your choice: 3
+Enter phone number to update: 4
+Contact not found!
+
+===== CONTACT BOOK =====
+1. Add Contact
+2. Search Contact
+3. Update Contact
+4. Delete Contact
+5. Display Contacts
+6. Exit
+Enter your choice: 5
+
+Contacts:
+Phone: 9876543210 Name: Madeena Beebi
+Phone: 8765432109 Name: Sravani
+Phone: 6543210987 Name: Manjula
+Phone: 7654321098 Name: Swathi
+
+===== CONTACT BOOK =====
+1. Add Contact
+2. Search Contact
+3. Update Contact
+4. Delete Contact
+5. Display Contacts
+6. Exit
+Enter your choice: 3
+Enter phone number to update: 8765432109
+Enter new name: 8877665544
+Contact updated successfully!
+
+===== CONTACT BOOK =====
+1. Add Contact
+2. Search Contact
+3. Update Contact
+4. Delete Contact
+5. Display Contacts
+6. Exit
+Enter your choice: 5
+
+Contacts:
+Phone: 9876543210 Name: Madeena Beebi
+Phone: 8765432109 Name: 8877665544
+Phone: 6543210987 Name: Manjula
+Phone: 7654321098 Name: Swathi
+
+===== CONTACT BOOK =====
+1. Add Contact
+2. Search Contact
+3. Update Contact
+4. Delete Contact
+5. Display Contacts
+6. Exit
+Enter your choice: 3
+Enter phone number to update: 87654321009
+Contact not found!
+
+===== CONTACT BOOK =====
+1. Add Contact
+2. Search Contact
+3. Update Contact
+4. Delete Contact
+5. Display Contacts
+6. Exit
+Enter your choice: 4
+Enter phone number to delete: 8765432109
+Contact deleted successfully!
+
+===== CONTACT BOOK =====
+1. Add Contact
+2. Search Contact
+3. Update Contact
+4. Delete Contact
+5. Display Contacts
+6. Exit
+Enter your choice: 1
+Enter phone number: 7766554433
+Enter contact name: sravani
+Contact added successfully!
+
+===== CONTACT BOOK =====
+1. Add Contact
+2. Search Contact
+3. Update Contact
+4. Delete Contact
+5. Display Contacts
+6. Exit
+Enter your choice: 5
+
+Contacts:
+Phone: 9876543210 Name: Madeena Beebi
+Phone: 6543210987 Name: Manjula
+Phone: 7654321098 Name: Swathi
+Phone: 7766554433 Name: sravani
+
+===== CONTACT BOOK =====
+1. Add Contact
+2. Search Contact
+3. Update Contact
+4. Delete Contact
+5. Display Contacts
+6. Exit
+Enter your choice: 6
+Thank you for using Contact Book!
